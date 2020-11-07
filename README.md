@@ -1,8 +1,6 @@
 # Invoke-OnMotion
-Execute the specified command when laptop motion is detected.
-The script uses ThinkPad acceleration sensor to detect laptop motion.
+The script uses ThinkPad acceleration sensor to detect laptop motion. The command given in the script parameter will be executed when the sensor detects the device is moving. 
 
-The command given in the script parameter will be executed when the sensor detects the device is moving. 
 **Thinkpad laptops only.**
 
 ### Use case
